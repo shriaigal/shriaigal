@@ -3,8 +3,7 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flask+%7C+Python+%7C+JavaScript;Building+Real+World+Web+Applications" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+Software+Developer;Python+%7C+SQL+%7C+Web+Development" />
 </p>
 ---
  
