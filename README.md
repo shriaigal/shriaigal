@@ -61,10 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shriaigal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriaigal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shriaigal&theme=tokyonight&hide_border=true" height="150" />
-</p>
 ---
  
 ### Connect With Me
