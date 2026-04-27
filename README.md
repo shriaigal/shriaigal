@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm A S Shridatta Aigal</h1>
 <h3 align="center">MCA Student · Full Stack Developer · Bengaluru, India</h3>
  
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+for+the+web;Flask+%7C+Python+%7C+JavaScript;Open+to+internships+%26+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flask+%7C+Python+%7C+JavaScript;Building+Real+World+Web+Applications" />
+
 </p>
 ---
  
