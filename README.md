@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A S Shridatta Aigal</h1>
-<h3 align="center">MCA Student · Full Stack Developer · Bengaluru, India</h3>
+<h3 align="center">MCA Student· Full Stack Developer · Bengaluru, India</h3>
  
 
 <p align="center">
